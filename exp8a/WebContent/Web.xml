@@ -1,0 +1,11 @@
+<web-app>
+ <servlet>
+ <servlet-name>rg</servlet-name>
+ <servlet-class>RegistrationServlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ <servlet-name>rg</servlet-name>
+ <url-pattern>/registration</url-pattern>
+ </servlet-mapping>
+
+</web-app> 
